@@ -1,0 +1,4 @@
+scatter plot matrix
+choropleth Maps
+spatial position
+box-and-whiskers plot
